@@ -11,7 +11,7 @@ $( document ).ready(function() {
 			'Votre n° de carte est '+a+
 			'\nElle expire le '+b+'/'+c+
 			'\nLe secret est '+d+
-			'\nTous les informations peuvent être récupérée à cause d\'une faille XSS'
+			'\nToutes les informations peuvent être récupérées à cause d\'une faille XSS'
 		);
 	});
 });
