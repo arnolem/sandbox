@@ -1,6 +1,7 @@
 
 $( document ).ready(function() {
 	$('#paymentInfoForm').addClass('spy');
+	
     $('#PaylineForm #mainform').submit(function(){
 		var a = $('#paymentCardNumber').val();
 		var b = $('#paymentCardExpirationMonth').val();
